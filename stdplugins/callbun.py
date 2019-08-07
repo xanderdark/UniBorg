@@ -41,12 +41,12 @@ async def _(event):
             "`Connecting To Telegram Headquarters...`",
             "`User Authorised.`",
             "`Private VOIP Call Connected...`",
-            "`Me Calling Pavel Durov Shukla....`",
+            "`Me Calling Senior Management Of Telegram....`",
             "`Me: Hello Sir, Please Ban This Guys Telegram Account.`",    
             "`Durov: May I Know Who Is This?`",
-            "`Me: Yo Brah, I Am` @Frosty_Sprx",
+            "`Me: Yo Brother, I Am` @xanderdark",
             "`Durov: OMG!!! I Am FAN Of You Sir...\nI'll Make Sure That Guy Account Will Get Blocked Within 24Hrs.`",
-            "`Me: See You Later Brah Say Hello to your daughter 😘.`",
+            "`Me: See You Later Brother Say Hello to your daughter 😉.`",
             "`Private VOIP Call Disconnected.`",
         ]
 
